@@ -28,3 +28,8 @@
 
 ### 📩 Let's Connect
 [**Portfolio**](https://portfolio-website-nu-eight-81.vercel.app/) | [**Telegram**](https://t.me/+wXvSuiDtqqM0ZmYy) | [**LinkedIn**](https://www.linkedin.com/in/%D1%80%D0%BE%D0%B4%D0%B8%D0%BE%D0%BD-%D1%85%D0%B8%D1%80%D0%BD%D1%8B%D0%B9-00b46029b/)
+
+---
+### 📈 Activity & Stats
+![New Era Agency Stats](https://github-readme-stats.vercel.app/api?username=New-Era-Agency&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=New-Era-Agency&layout=compact&theme=tokyonight)
